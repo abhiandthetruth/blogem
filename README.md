@@ -1,1 +1,1 @@
-#A blog application
+A community channel based blog application
